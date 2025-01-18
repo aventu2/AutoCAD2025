@@ -3,11 +3,11 @@ Projects created for my AutoCAD portfolio.
 
 Layout for each project:
 
--Blocks for specific project
+-Folder including Blocks for specific project
 
--PDF version of file
+-Folder inlcuding PDF version of file
 
--.dwg file (autocad file)
+-Folder including .dwg files (autocad file)
 
 -Learning experience wordDOC
 
